@@ -1,0 +1,72 @@
+{
+    "listen": ["127.0.0.1", 7890],
+    "verbose": true,
+
+    "color": {
+        "gamma": 2.5,
+        "whitepoint": [0.7, 0.7, 0.7]
+    },
+
+    "devices": [
+        {
+            "index": 0,
+            "type": "fadecandy",
+            "serial": "WUWQBDQSWIRTJFUT",
+        },
+        {
+            "index": 1,
+            "type": "fadecandy",
+            "serial": "NPFZQAEMCSVXZFQP",
+        },
+        {
+            "index": 2,
+            "type": "fadecandy",
+            "serial": "NHDVUEYGKIVDHXUL",
+        },
+        {
+            "index": 3,
+            "type": "fadecandy",
+            "serial": "UYOYPBUSMSNBRBOZ",
+        },
+        {
+            "index": 4,
+            "type": "fadecandy",
+            "serial": "QGQCBLLFSETLFLAF",
+        },
+        {
+            "index": 5,
+            "type": "fadecandy",
+            "serial": "GMWAZTDJOQLLZJOP",
+        },
+        {
+            "index": 8,
+            "type": "fadecandy",
+            "serial": "PTNDAGCYIWXVXXUH",
+        },
+        {
+            "index": 9,
+            "type": "fadecandy",
+            "serial": "WAWILXNBAWPVPVID",
+        },
+        {
+            "index": 10,
+            "type": "fadecandy",
+            "serial": "XNBZGKHXSCXRVNML",
+        },
+        {
+            "index": 16,
+            "type": "fadecandy",
+            "serial": "GQEGBBZHQURDHTKF",
+        },
+        {
+            "index": 17,
+            "type": "fadecandy",
+            "serial": "KWECBNQMAQPBJVKJ",
+        },
+        {
+            "index": 18,
+            "type": "fadecandy",
+            "serial": "SYIKJFYUGEZRHDSR",
+        }
+    ]
+}
