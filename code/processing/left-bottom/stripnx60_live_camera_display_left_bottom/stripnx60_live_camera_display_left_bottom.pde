@@ -3,7 +3,7 @@ import processing.video.*;
 OPC opc;
 Capture cam;
 
-int numStrips = 40;
+int numStrips = 48;
 
 void setup() {
   size(800, 400);

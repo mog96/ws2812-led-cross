@@ -1,7 +1,7 @@
 OPC opc;
 PImage im;
 
-int numStrips = 40;
+int numStrips = 48;
 
 void setup()
 {
